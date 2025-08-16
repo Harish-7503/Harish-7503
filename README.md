@@ -1,74 +1,68 @@
-# 🛍️ Shopify Frontend Portfolio – Harish Tiwari
+# Harish Kumar Tiwari — Shopify Frontend Developer
 
-Hi, I’m **Harish Tiwari**, a Shopify Frontend Developer with 4+ years of experience. Below is a showcase of live Shopify stores I’ve worked on, with key frontend customizations like product tabs, metafields, section-based design, and store migrations.
-
----
-
-## 🔗 Featured Shopify Projects
-
-### [castlepaints.ie](https://castlepaints.ie)
-- Featured Product tabs on homepage (Popular / On Sale / New)
-- Product page tabs: Description / Additional Info / Reviews
-- Custom metafields for short descriptions
-
-### [compressionstockings.com](https://compressionstockings.com)
-- Product tabs: Description / Sizing Guide / Reviews
-- Trust badge section and delivery info via metafields
-
-### [cogstoysandgames.ie](https://cogstoysandgames.ie)
-- Product tabs: Educational Value / Reviews / Safety Info
-- Metafields for toy age group and warnings
-- Collection filters customization
-
-### [parfums-vanel.fr](https://parfums-vanel.fr)
-- French language product tabs
-- Metafields: Scent Family, Longevity, and Short Description
-
-### [zahyox.com](https://zahyox.com)
-- Featured products tabbed layout
-- Tabs on product page: Description / Usage / Reviews
-- Custom metafields for skincare-related fields
+Building fast, clean, and conversion-focused Shopify storefronts. I turn Figma into pixel-perfect Liquid themes with responsive UI, accessible components, and smooth performance.
 
 ---
 
-## 🛒 Additional Shopify Stores (Work Includes Customization, Metafields, Tab Layouts, or Migrations)
+## 👋 About Me
 
-| Store URL | Work Summary (to be updated) |
-|-----------|------------------------------|
-| [https://0mfvsy-gr.myshopify.com/](https://0mfvsy-gr.myshopify.com/) | Custom homepage + Product tabs |
-| [https://laminationservices.ie/](https://laminationservices.ie/) | Metafield setup for product specs |
-| [https://odlumandchica.com/](https://odlumandchica.com/) | Theme customization |
-| [https://millenniummachinery.ie/](https://millenniummachinery.ie/) | Custom sections + reviews integration |
-| [https://614a2f-d4.myshopify.com/](https://614a2f-d4.myshopify.com/) | Tabbed product layout |
-| [https://www.macool-roasters.ie/](https://www.macool-roasters.ie/) | Collection page customization |
-| [https://www.toolsource.ie/](https://www.toolsource.ie/) | Tab setup + metafields |
-| [https://www.decollage.ie/](https://www.decollage.ie/) | Homepage banner sections |
-| [https://www.nursennurture.com/](https://www.nursennurture.com/) | Custom metafield content blocks |
-| [https://healyfurniture.ie/](https://healyfurniture.ie/) | Description tabs and furniture size info |
-| [https://wawets.com/](https://wawets.com/) | Metafield and reviews integration |
-| [https://f0v7n1-yf.myshopify.com/](https://f0v7n1-yf.myshopify.com/) | Tabbed sections + store setup |
-| [https://fabuwellness.com/](https://fabuwellness.com/) | Product metafields + app integration |
-| [https://personalizedfanstore.com/](https://personalizedfanstore.com/) | Custom homepage, tabs, reviews |
+* 4+ years in Shopify theme development (Dawn + premium themes)
+* Comfortable editing theme code (`.liquid`, sections, snippets, metafields)
+* Strong in HTML, CSS, JavaScript, JSON
+* Focused on performance, accessibility, SEO, and maintainability
+* Open to freelance and collaboration work
+
+> *"From concept to launch: I manage complete builds — starting from design in Figma, converting to Liquid templates, creating custom sections, ensuring responsive layouts, optimizing performance, integrating apps, migrating data, and deploying live."*
 
 ---
 
-## 🧠 Key Skills
+## 🧰 Tech Stack
 
-- Shopify theme development (Liquid, HTML/CSS, JS)
-- Section & snippet-based architecture
-- Metafields: product-specific short description, usage, ingredients
-- Product tabs (Description / Info / Reviews) across multiple stores
-- Store migration using Cart2Cart and CSV import/export
-- App integration (Yotpo, Judge.me, Infinite Options, etc.)
+**Shopify:** Liquid, Theme architecture, Sections/Blocks, Metafields, Filters
 
----
+**Frontend:** HTML5, CSS3, JavaScript (ES6+)
 
-## 📫 Contact
+**Tooling:** Git/GitHub, Shopify Admin, Shopify CLI (learning), Theme Check
 
-- 📧 Email: hktiwari85@gmail.com  
-- 📍 New Delhi, India  
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile) *(Add yours)*
+**Performance & SEO:** Lighthouse, Core Web Vitals, Schema/Structured Data, Lazy loading, Image optimization
+
+**Collaboration:** Figma/Zeplin, Jira/Trello, PR reviews, Documentation
 
 ---
 
-Thanks for checking out my portfolio!
+## 🏆 Highlights
+
+* Built multiple high-converting storefronts on Shopify
+* Implemented complex tabbed product sections and collection filters
+* Automated order tagging and email workflows via Shopify settings/Flow
+* Custom metafield-driven sections and dynamic content blocks
+
+---
+
+## 🚀 Featured Projects
+
+> **Legend**
+> **Handling:** `Solo` = single-handed end-to-end delivery. `Team` = collaborated with designers/devs.
+> Replace 🔗 links with your actual live project links.
+
+| Project                      | Handling |                                                                                                                                                   Role & Scope | Tech                                     | Live                                                                                | Highlights                              |
+| ---------------------------- | -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------: | ---------------------------------------- | ----------------------------------------------------------------------------------- | --------------------------------------- |
+| Positive Dog Training Dublin | **Solo** | Full-cycle build: designed in Figma, converted to Liquid, built custom sections/snippets, responsive UI, SEO, performance optimization, data migration, launch | Shopify (Liquid), JS, HTML, CSS          | 🔗 [https://positivedogtrainingdublin.com/](https://positivedogtrainingdublin.com/) | Complete solo delivery                  |
+| Project Name 2               | **Team** |                                                                Frontend lead: created custom Dawn sections, product slider, filters, optimized Core Web Vitals | Liquid, JS, HTML, CSS, JSON, Theme Check | 🔗 [https://example.com](https://example.com)                                       | Collaborated with designer + backend    |
+| Project Name 3               | **Solo** |                                                           Developed custom theme from scratch, schema + metafields, app integrations, SEO optimization, launch | Liquid, JS, HTML, CSS                    | 🔗 [https://example.com](https://example.com)                                       | End-to-end solo build                   |
+| Project Name 4               | **Team** |                                                                       Feature development: mega menu via Navigation, collection templates, accessibility fixes | Liquid, HTML, CSS, a11y                  | 🔗 [https://example.com](https://example.com)                                       | Accessibility & navigation improvements |
+
+> **Tip:** Keep 4–6 best projects here.
+
+---
+
+## 📫 Get in Touch
+
+* 📧 Email: [yourname@example.com](mailto:yourname@example.com)
+* 📱 Phone: [+91 7503067260](tel:+917503067260)
+* 🏠 Address: Your City, Your Country
+* 💼 LinkedIn: [linkedin.com/in/harish-7503](https://www.linkedin.com/in/harish-7503)
+
+---
+
+⭐️ From [Harish Kumar Tiwari](https://github.com/Harish-7503)
