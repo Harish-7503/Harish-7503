@@ -12,7 +12,7 @@ Building fast, clean, and conversion-focused Shopify storefronts. I turn Figma i
 * Focused on performance, accessibility, SEO, and maintainability
 * Open to freelance and collaboration work
 
-> *"From concept to launch: I manage complete builds — starting from design in Figma, converting to Liquid templates, creating custom sections, ensuring responsive layouts, optimizing performance, integrating apps, migrating data, and deploying live."*
+> *"From concept to launch: I manage complete builds — starting from Figma to Liquid templates, creating custom sections, ensuring responsive layouts, optimizing performance, integrating apps, migrating data, and deploying live."*
 
 ---
 
@@ -43,16 +43,28 @@ Building fast, clean, and conversion-focused Shopify storefronts. I turn Figma i
 
 > **Legend**
 > **Handling:** `Solo` = single-handed end-to-end delivery. `Team` = collaborated with designers/devs.
-> Replace 🔗 links with your actual live project links.
 
-| Project                      | Handling |                                                                                                                                                   Role & Scope | Tech                                     | Live                                                                                | Highlights                              |
-| ---------------------------- | -------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------: | ---------------------------------------- | ----------------------------------------------------------------------------------- | --------------------------------------- |
-| Positive Dog Training Dublin | **Solo** | Full-cycle build: designed in Figma, converted to Liquid, built custom sections/snippets, responsive UI, SEO, performance optimization, data migration, launch | Shopify (Liquid), JS, HTML, CSS          | 🔗 [https://positivedogtrainingdublin.com/](https://positivedogtrainingdublin.com/) | Complete solo delivery                  |
-| Project Name 2               | **Team** |                                                                Frontend lead: created custom Dawn sections, product slider, filters, optimized Core Web Vitals | Liquid, JS, HTML, CSS, JSON, Theme Check | 🔗 [https://example.com](https://example.com)                                       | Collaborated with designer + backend    |
-| Project Name 3               | **Solo** |                                                           Developed custom theme from scratch, schema + metafields, app integrations, SEO optimization, launch | Liquid, JS, HTML, CSS                    | 🔗 [https://example.com](https://example.com)                                       | End-to-end solo build                   |
-| Project Name 4               | **Team** |                                                                       Feature development: mega menu via Navigation, collection templates, accessibility fixes | Liquid, HTML, CSS, a11y                  | 🔗 [https://example.com](https://example.com)                                       | Accessibility & navigation improvements |
-
-> **Tip:** Keep 4–6 best projects here.
+| Project                      | Handling |                                                                                           Role & Scope | Tech                            | Live                                                                                | Highlights             |
+| ---------------------------- | -------- | -----------------------------------------------------------------------------------------------------: | ------------------------------- | ----------------------------------------------------------------------------------- | ---------------------- |
+| Positive Dog Training Dublin | **Solo** |                                       Complete build: Figma to Liquid, responsive UI, SEO, performance | Shopify (Liquid), JS, HTML, CSS | 🔗 [https://positivedogtrainingdublin.com/](https://positivedogtrainingdublin.com/) | Complete solo delivery |
+| Castle Paints                | **Solo** | Full-cycle build: Figma to Liquid, custom sections, responsive UI, SEO, performance, migration, launch | Shopify (Liquid), JS, HTML, CSS | 🔗 [https://castlepaints.ie/](https://castlepaints.ie/)                             | Complete solo delivery |
+| Lamination Services          | **Solo** |                              Complete build: Figma to Liquid, responsive UI, custom theme, SEO, launch | Shopify (Liquid), JS, HTML, CSS | 🔗 [https://laminationservices.ie/](https://laminationservices.ie/)                 | Complete solo delivery |
+| Odlum and Chica              | **Solo** |                               Custom theme development: Figma to Liquid, schema/metafields, responsive | Shopify (Liquid), JS, HTML, CSS | 🔗 [https://odlumandchica.com/](https://odlumandchica.com/)                         | Complete solo delivery |
+| Tyrecraft                    | **Solo** |                                End-to-end build: Figma to Liquid, performance optimization, responsive | Shopify (Liquid), JS, HTML, CSS | 🔗 [https://tyrecraft.ie/](https://tyrecraft.ie/)                                   | Complete solo delivery |
+| The Spectacles Chick         | **Solo** |                                                   Complete Shopify theme build with responsive UI, SEO | Shopify (Liquid), JS, HTML, CSS | 🔗 [https://thespectacleschick.ie/](https://thespectacleschick.ie/)                 | Complete solo delivery |
+| Larry O Keeffe               | **Solo** |                            Full-cycle build: Figma to Liquid, responsive UI, custom theme, SEO, launch | Shopify (Liquid), JS, HTML, CSS | 🔗 [https://larryokeeffe.com/](https://larryokeeffe.com/)                           | Complete solo delivery |
+| Personalized Fan Store       | **Solo** |                            Full Shopify build: Figma to Liquid, responsive UI, integrations, migration | Shopify (Liquid), JS, HTML, CSS | 🔗 [https://personalizedfanstore.com/](https://personalizedfanstore.com/)           | Complete solo delivery |
+| Philo Sullivan Electrical    | **Solo** |                                         End-to-end build: Figma to Liquid, custom sections, responsive | Shopify (Liquid), JS, HTML, CSS | 🔗 [https://philosullivanelectrical.ie/](https://philosullivanelectrical.ie/)       | Complete solo delivery |
+| Tool Source                  | **Solo** |                                                       Shopify theme customization and responsive build | Shopify (Liquid), JS, HTML, CSS | 🔗 [https://www.toolsource.ie/](https://www.toolsource.ie/)                         | Complete solo delivery |
+| Decollage                    | **Solo** |                                                 Custom Shopify build: Figma to Liquid, responsive, SEO | Shopify (Liquid), JS, HTML, CSS | 🔗 [https://www.decollage.ie/](https://www.decollage.ie/)                           | Complete solo delivery |
+| Nurse N Nurture              | **Solo** |                                                                           Complete Shopify theme build | Shopify (Liquid), JS, HTML, CSS | 🔗 [https://www.nursennurture.com/](https://www.nursennurture.com/)                 | Complete solo delivery |
+| Wawets                       | **Solo** |                                                    Shopify store build: Figma to Liquid, responsive UI | Shopify (Liquid), JS, HTML, CSS | 🔗 [https://wawets.com/](https://wawets.com/)                                       | Complete solo delivery |
+| Deluxy                       | **Team** |                                                  Collaborated with backend developer for Shopify build | Shopify (Liquid), JS, HTML, CSS | 🔗 [https://deluxy.it/](https://deluxy.it/)                                         | Team collaboration     |
+| Cake Design                  | **Team** |                                                   Shopify theme development with backend collaboration | Shopify (Liquid), JS, HTML, CSS | 🔗 [https://cakedesign.me/](https://cakedesign.me/)                                 | Team collaboration     |
+| Compression Stockings        | **Team** |                                                    Shopify storefront build with backend collaboration | Shopify (Liquid), JS, HTML, CSS | 🔗 [https://compressionstockings.com](https://compressionstockings.com)             | Team collaboration     |
+| Cogs Toys and Games          | **Team** |                                                     Shopify build with backend developer collaboration | Shopify (Liquid), JS, HTML, CSS | 🔗 [https://cogstoysandgames.ie](https://cogstoysandgames.ie)                       | Team collaboration     |
+| Zahyox                       | **Team** |                                                       Shopify theme development, backend collaboration | Shopify (Liquid), JS, HTML, CSS | 🔗 [https://zahyox.com](https://zahyox.com)                                         | Team collaboration     |
+| Fabu Wellness                | **Team** |                                                        Shopify storefront build, backend collaboration | Shopify (Liquid), JS, HTML, CSS | 🔗 [https://fabuwellness.com/](https://fabuwellness.com/)                           | Team collaboration     |
 
 ---
 
@@ -62,7 +74,3 @@ Building fast, clean, and conversion-focused Shopify storefronts. I turn Figma i
 * 📱 Phone: [+91 7503067260](tel:+917503067260)
 * 🏠 Address: Your City, Your Country
 * 💼 LinkedIn: [linkedin.com/in/harish-7503](https://www.linkedin.com/in/harish-7503)
-
----
-
-⭐️ From [Harish Kumar Tiwari](https://github.com/Harish-7503)
